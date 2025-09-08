@@ -1,9 +1,5 @@
-![_Blue   White Modern Technology Linkedln Banner](https://github.com/user-attachments/assets/27f6f148-372d-4d1e-bc10-bfcbde979593)
-<h1 align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,There!+👋;......This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=40">
-  </a>
+<h1 align="center">
 </h1>
 
 
@@ -20,7 +16,7 @@
 <p align="left"></p>
 <div align="center">
   <h1>About Me 👋</h1>
-  <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="Sujon's Icon" width="100">
+<!--   <img src="https://s.github.io/silverhok/img/icon.png" alt="Sujon's Icon" width="100"> -->
 </div>
 
 <h3>Hi, I’m Sujon! 👋</h3>
@@ -71,7 +67,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=sujon-258549&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+<img src="https://github-trophies.vercel.app/?username=sujonsoftworldit-cell&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 
@@ -95,8 +91,8 @@
 </p>
  -->
 
-<a href="https://github.com/sujon-258549" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/sujonsoftworldit-cell" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujonsoftworldit-cell&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
  
@@ -106,11 +102,11 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <!-- Streak Stats -->
-  <img width="390" height="200" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=react&border_radius=10&hide_border=true" alt="Sujon's Streak Stats">
+  <img width="390" height="200" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujonsoftworldit-cell&theme=react&border_radius=10&hide_border=true" alt="Sujon's Streak Stats">
   
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Sujon's GitHub Stats">
+    <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=sujonsoftworldit-cell&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Sujon's GitHub Stats">
   </a>
 </div>
 
@@ -119,16 +115,16 @@
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<a href="https://github.com/sujon-258549">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujon-258549&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujon-258549&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujon-258549&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujon-258549&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujon-258549&theme=2077" height="180em" />
+<a href="https://github.com/sujonsoftworldit-cell">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujonsoftworldit-cell&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujonsoftworldit-cell&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujonsoftworldit-cell&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujonsoftworldit-cell&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujonsoftworldit-cell&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujonsoftworldit-cell&theme=react-dark"/>
 <br>
 
 
